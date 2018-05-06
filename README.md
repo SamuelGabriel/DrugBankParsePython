@@ -7,7 +7,9 @@ without the overhead of *really* understanding XML.
 
 Call it like 
 
-> python3 parse.py --drugbankpath <Local Path to the DrugBank XML>
+```
+python3 parse.py --drugbankpath <Local Path to the DrugBank XML>
+```
 
 And it generates three files.
 
